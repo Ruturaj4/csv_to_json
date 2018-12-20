@@ -1,1 +1,1 @@
-from .csv_to_json import main.py
+from .csv_to_json import convert

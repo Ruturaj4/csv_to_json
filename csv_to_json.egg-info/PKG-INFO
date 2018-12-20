@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: csv-to-json
-Version: 0.0.1
+Version: 0.0.3
 Summary: A simple csv to json coverter
 Home-page: https://github.com/Ruturaj4/csv_to_json
-Author: Ruturaj Vaidya
+Author: ruturaj4
 Author-email: ruturajkvaidya@gmail.com
 License: UNKNOWN
 Description: Python package converts csv to json
