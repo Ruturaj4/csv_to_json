@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="csv_to_json",
-    version="0.0.4",
+    version="0.0.5",
     author="ruturaj4",
     author_email="ruturajkvaidya@gmail.com",
     description="A simple csv to json coverter",
@@ -18,4 +18,8 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    install_requires=[
+        'setuptools>=39.2.0',
+        'pandas>=0.23.4'
+        ]
 )
