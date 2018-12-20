@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple csv to json coverter",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Ruturaj4/csv_to_json",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
