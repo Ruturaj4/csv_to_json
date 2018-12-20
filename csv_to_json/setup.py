@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="csv_to_json",
     version="0.0.1",
-    author="Ruturaj Vaidya",
+    author="ruturaj4",
     author_email="ruturajkvaidya@gmail.com",
     description="A simple csv to json coverter",
     long_description=long_description,

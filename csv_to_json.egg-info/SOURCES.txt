@@ -1,0 +1,6 @@
+README.md
+setup.py
+csv_to_json.egg-info/PKG-INFO
+csv_to_json.egg-info/SOURCES.txt
+csv_to_json.egg-info/dependency_links.txt
+csv_to_json.egg-info/top_level.txt
