@@ -5,9 +5,10 @@
     <h1>Python package converts csv to json</h1>
   </head>
   <body>
-    <p>Usage:</p>
-    <p>import csv_to_json</p>
-    <p>csv_to_json.convert(filename)</p>
+    <h3>Usage:</h3>
+    <p>To install: <code>pip install csv-to-json</code></p>
+    <code>import csv_to_json</code>
+    <code>csv_to_json.convert(filename)</code>
   </body>
 </html>
 
