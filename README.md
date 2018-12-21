@@ -7,7 +7,7 @@
   <body>
     <h3>Usage:</h3>
     <p>To install: <code>pip install csv-to-json</code></p>
-    <code>import csv_to_json</code>
+    <code>import csv_to_json</code></br>
     <code>csv_to_json.convert(filename)</code>
   </body>
 </html>
